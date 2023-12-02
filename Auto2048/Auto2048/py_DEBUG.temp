@@ -1,0 +1,16 @@
+row=0
+	0	2	0	4
+
+row=1
+	0	0	8	2
+
+row=2
+	0	0	4	4
+
+row=3
+	0	8	4	2
+
+row=4
+	36
+score add left_right:8
+score add left_right:8
